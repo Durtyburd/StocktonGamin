@@ -1,0 +1,11 @@
+.dottedhr {
+  border: none;
+  border-top: dotted;
+  width: 100px;
+  border-width: 10px;
+  align-items: center;
+}
+
+.font {
+font-family: 'Staatliches', cursive;
+}
